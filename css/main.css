@@ -1,0 +1,41 @@
+body {
+	text-align:center;
+	font-family: 'Oswald', sans-serif;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+/*  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+}
+
+#disclaimer {
+	font-size: 3px;
+	color: #d9d9d9;
+}
+
+#headingtitle {
+	float: left;
+}
+
+.btn-lg {
+	background-color: #000;
+}
+
+.btn-lg:hover {
+	background-color: #222222;
+}
+
+.btn-lg:active {
+	background-color: #fff;
+}
+
+.headingTitle {
+	font-size: 50px;
+}
